@@ -1,0 +1,6 @@
+[submodule "piParseGPS"]
+	path = piParseGPS
+	url = git@github.com:DrCord/piParseGPS.git
+[submodule "xadowGSMGPS"]
+	path = xadowGSMGPS
+	url = git@github.com:DrCord/xadowGSMGPS.git
